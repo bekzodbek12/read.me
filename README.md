@@ -12,21 +12,12 @@ Har kuni yangi texnologiyalarni o‘rganishga harakat qilaman.
 
 ---
 
-### 🛠 Texnologiyalar
-
 - **Frontend:** HTML, CSS, JavaScript, Vue, React  
 - **Asboblar:** Git, VS Code, Figma, NPM  
 - **Qiziqishlar:** UI/UX, dizayn, open-source loyihalar
 
 ---
 
-### 📫 Menga bog‘lanish
-
-- 📧 Email: [yourmail@example.com](mailto:yourmail@example.com)
-- 💼 LinkedIn: [linkedin.com/in/bekzodbek](https://linkedin.com/in/bekzodbek)
-- 💻 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-
----
 
 ### 💬 Men haqimda qisqacha
 
